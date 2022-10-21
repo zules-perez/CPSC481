@@ -1,5 +1,5 @@
 # CPSC481
-Artificial Intelligence
+## Artificial Intelligence
 
 ### A Survey of the Rise of the Virtual Assistant
 
